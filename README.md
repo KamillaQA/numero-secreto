@@ -7,7 +7,7 @@ O objetivo principal foi praticar conceitos fundamentais da programação, além
 
 ### 1. Exibição Interativa de Mensagens
 - Desenvolvimento de scripts interativos utilizando `console.log`, `prompt` e `alert` para exibir e coletar informações dos usuários de forma dinâmica.
-
+    
 ### 2. Utilização de Variáveis
 - Manipulação de variáveis em JavaScript para armazenar e processar dados de forma eficiente.
 
