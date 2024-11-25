@@ -55,4 +55,4 @@ cd nome-do-repositorio
 
 - [Curso de Lógica de Programação com JavaScript - Alura](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript)
 - [Curso de Git e GitHub - Alura](https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos)
-- [Curso de Git e GitHub: dominando controle de versão de código - Alura] (https://cursos.alura.com.br/course/git-github-dominando-controle-versao-codigo)
+- [Curso de Git e GitHub: dominando controle de versão de código - Alura](https://cursos.alura.com.br/course/git-github-dominando-controle-versao-codigo)
